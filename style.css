@@ -1,0 +1,29 @@
+body {
+   background-image: url(images/space.webp);
+   font-family: 'Orbitron', sans-serif;
+   background-size: cover;
+   color: #82b7cc;
+   text-align: center;
+   margin: 0;
+}
+
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+}
+.underline {
+    border-bottom: 4px solid white;
+}
+#logo {
+    width: 200px;
+}
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+#header {
+    background-image: url(images/space.webp);
+    background-size: cover;
+    padding: 10px opx 40px 0px;
+}
